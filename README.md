@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 工作在南京
-- 开源code：
+- code：
   - [glowworm](https://github.com/geallenboy/glowworm.git)
   - [garron-tmc](https://github.com/geallenboy/garron-tmc.git)
   - [honeybee ](https://github.com/geallenboy/honeybee.git)
