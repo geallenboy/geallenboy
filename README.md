@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 工作在南京
 - code：
   - [glowworm](https://github.com/geallenboy/glowworm.git)
   - [garron-tmc](https://github.com/geallenboy/garron-tmc.git)
