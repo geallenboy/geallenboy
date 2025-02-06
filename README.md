@@ -17,9 +17,7 @@
 - **前端**：Typescript、React、Vue.js、HTML、CSS、TailwindCSS
 - **后端**：Node.js、Nextjs
 - **数据库**：MySQL、PostgreSQL、MongoDB
-- **DevOps**：Docker、GitHub Actions
-- **云服务**：AWS、Google Cloud、Azure
-- **版本控制**：Git、GitHub、GitLab
+- **DevOps**：Docker
 
 ## 📂 精选项目
 
