@@ -5,7 +5,7 @@
 ## 🚀 关于我
 
 - 💻 **全栈开发者**，有构建 web 应用程序、APP、API 等的经验。
-- 🌱 目前正在学习 **AI**。
+- 🌱 目前正在用 **AI** 构建一切。
 - 🎯 热衷于 **开源**、**自动化** 和 **全栈开发**。
 - 📚 始终保持好奇心，渴望学习新事物。
 
@@ -23,9 +23,12 @@
 
 以下是我一些值得注意的项目：
 
-- **[ai-image](https://github.com/geallenboy/ai-image)**: ai-image。
-- **[ai-saas-template](https://github.com/geallenboy/ai-saas-template)**: ai-saas-template。
-- **[ai-code](https://github.com/geallenboy/ai-code)**: ai-code。
+- **[ai-image](https://github.com/geallenboy/ai-image)**: ai-image
+- **[ai-saas-template](https://github.com/geallenboy/ai-saas-template)**: ai-saas-template
+- **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
+- **[ai-code](https://github.com/geallenboy/ai-code)**: ai-code
+- **[draw-text](https://github.com/geallenboy/draw-text)**: draw-text
+- **[ai-resume](https://github.com/geallenboy/ai-resume)**: ai-resume
 
 ## 📈 GitHub 活动
 
