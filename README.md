@@ -24,11 +24,12 @@
 以下是我一些值得注意的项目：
 
 - **[ai-image](https://github.com/geallenboy/ai-image)**: ai-image
-- **[ai-saas-template](https://github.com/geallenboy/ai-saas-template)**: ai-saas-template
+- **[ai-resume](https://github.com/geallenboy/ai-resume)**: ai-resume
 - **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
 - **[ai-code](https://github.com/geallenboy/ai-code)**: ai-code
+- **[ai-saas-template](https://github.com/geallenboy/ai-saas-template)**: ai-saas-template
 - **[draw-text](https://github.com/geallenboy/draw-text)**: draw-text
-- **[ai-resume](https://github.com/geallenboy/ai-resume)**: ai-resume
+
 
 ## 📈 GitHub 活动
 
@@ -45,13 +46,8 @@
 - **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
 - **Twitter**：[@gejialun88](https://x.com/gejialun88)
 - **个人网站**：[我的网站](https://gegarron.com)
+- **微信号**：wxgegarron
 
-## 🌟 支持我
-
-如果你觉得我的工作有趣或有帮助，可以考虑支持我：
-- [在 GitHub 上赞助我](https://github.com/sponsors/geallenboy)
-
----
 
 感谢访问！😄
 
