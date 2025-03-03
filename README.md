@@ -46,7 +46,7 @@
 - **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
 - **Twitter**：[@gejialun88](https://x.com/gejialun88)
 - **个人网站**：[我的网站](https://gegarron.com)
-- **微信号**：wxgegarron
+- **微信号**：gegarron
 
 
 感谢访问！😄
