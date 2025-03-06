@@ -4,18 +4,27 @@
 
 ## 🚀 关于我
 
-- 💻 **全栈开发者**，有构建 web 应用程序、APP、API 等的经验。
+- 💻 **全栈开发者**，有构建 web 应用程序、APP等的经验。
 - 🌱 目前正在用 **AI** 构建一切。
 - 🎯 热衷于 **开源**、**自动化** 和 **全栈开发**。
 - 📚 始终保持好奇心，渴望学习新事物。
+  
+## 📫 联系我
 
+如果你有任何问题、合作的想法，或者只是想打个招呼，随时与我联系！
+
+- **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
+- **Twitter**：[@gejialun88](https://x.com/gejialun88)
+- **个人网站**：[我的网站](https://gegarron.com)
+- **微信号**：gegarron
+  
 ## 🔧 使用的技术与工具
 
 以下是我使用的一些技术和工具：
 
 - **编程语言**：JavaScript、Python
 - **前端**：Typescript、React、Vue.js、HTML、CSS、TailwindCSS
-- **后端**：Node.js、Nextjs
+- **后端**：Node.js、Nextjs、Python
 - **数据库**：MySQL、PostgreSQL、MongoDB
 - **DevOps**：Docker
 
@@ -39,14 +48,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geallenboy&layout=compact&theme=radical)
 
-## 📫 联系我
 
-如果你有任何问题、合作的想法，或者只是想打个招呼，随时与我联系！
-
-- **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
-- **Twitter**：[@gejialun88](https://x.com/gejialun88)
-- **个人网站**：[我的网站](https://gegarron.com)
-- **微信号**：gegarron
 
 
 感谢访问！😄
