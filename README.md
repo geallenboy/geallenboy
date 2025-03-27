@@ -5,18 +5,10 @@
 ## 🚀 关于我
 
 - 💻 **全栈开发者**，有构建 web 应用程序、APP等的经验。
-- 🌱 目前正在用 **AI** 构建一切。
+- 🌱 目前正在用 **AI** 构建应用。
 - 🎯 热衷于 **开源**、**自动化** 和 **全栈开发**。
 - 📚 始终保持好奇心，渴望学习新事物。
   
-## 📫 联系我
-
-如果你有任何问题、合作的想法，或者只是想打个招呼，随时与我联系！
-
-- **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
-- **Twitter**：[@gejialun88](https://x.com/gejialun88)
-- **个人网站**：[我的网站](https://gegarron.com)
-- **微信号**：gegarron
   
 ## 🔧 使用的技术与工具
 
@@ -32,13 +24,23 @@
 
 以下是我一些值得注意的项目：
 
+- **[ai-python](https://github.com/geallenboy/ai-python)**: ai-python
 - **[ai-search](https://github.com/geallenboy/ai-search)**: ai-search
-- - **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
+- **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
 - **[ai-image](https://github.com/geallenboy/ai-image)**: ai-image
 - **[ai-chat](https://github.com/geallenboy/ai-resume)**: ai-chat
 - **[ai-code](https://github.com/geallenboy/ai-code)**: ai-code
 - **[ai-saas-template](https://github.com/geallenboy/ai-saas-template)**: ai-saas-template
 - **[draw-text](https://github.com/geallenboy/draw-text)**: draw-text
+
+## 📫 联系我
+
+如果你有任何问题、合作的想法，或者只是想打个招呼，随时与我联系！
+
+- **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
+- **Twitter**：[@gejialun88](https://x.com/gejialun88)
+- **个人网站**：[我的网站](https://gegarron.com)
+- **微信号**：gegarron
 
 
 ## 📈 GitHub 活动
