@@ -32,9 +32,10 @@
 
 以下是我一些值得注意的项目：
 
+- **[ai-search](https://github.com/geallenboy/ai-search)**: ai-search
+- - **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
 - **[ai-image](https://github.com/geallenboy/ai-image)**: ai-image
-- **[ai-resume](https://github.com/geallenboy/ai-resume)**: ai-resume
-- **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
+- **[ai-chat](https://github.com/geallenboy/ai-resume)**: ai-chat
 - **[ai-code](https://github.com/geallenboy/ai-code)**: ai-code
 - **[ai-saas-template](https://github.com/geallenboy/ai-saas-template)**: ai-saas-template
 - **[draw-text](https://github.com/geallenboy/draw-text)**: draw-text
