@@ -25,6 +25,7 @@
 以下是我一些值得注意的项目：
 
 - **[ai-n8n](https://github.com/geallenboy/ai-n8n)**: ai-n8n
+- **[drawing](https://github.com/geallenboy/drawing)**: drawing
 - **[ailinksall](https://github.com/geallenboy/ailinksall)**: ailinksall
 - **[ai-search](https://github.com/geallenboy/ai-search)**: ai-search
 - **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
@@ -39,10 +40,7 @@
 如果你有任何问题、合作的想法，或者只是想打个招呼，随时与我联系！
 
 - **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
-- **Twitter**：[@gejialun88](https://x.com/gejialun88)
 - **个人网站**：[我的网站](https://gegarron.com)
-- **微信号**：gegarron
-
 
 ## 📈 GitHub 活动
 
