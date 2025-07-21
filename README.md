@@ -4,7 +4,7 @@
 
 ## 🚀 关于我
 
-- 💻 **全栈开发者**，有构建 web 应用程序、APP等的经验。
+- 💻 **全栈开发者**，构建 web 应用程序、APP等，**N8N爱好者**，[aiautomatehub](https://aiautomatehub.org/zh)。
 - 🌱 目前正在用 **AI** 构建应用。
 - 🎯 热衷于 **开源**、**自动化** 和 **全栈开发**。
 - 📚 始终保持好奇心，渴望学习新事物。
@@ -15,10 +15,10 @@
 以下是我使用的一些技术和工具：
 
 - **编程语言**：JavaScript、Python
-- **前端**：Typescript、React、Vue.js、HTML、CSS、TailwindCSS
+- **前端**：Typescript、React、Vue、HTML、CSS、TailwindCSS
 - **后端**：Node.js、Nextjs、Python
-- **数据库**：MySQL、PostgreSQL、MongoDB
-- **DevOps**：Docker
+- **数据库**：PostgreSQL
+- **自动化**：N8N
 
 ## 📂 精选项目
 
