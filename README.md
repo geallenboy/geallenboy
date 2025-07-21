@@ -4,8 +4,8 @@
 
 ## 🚀 关于我
 
-- 💻 **全栈开发者**，构建 web 应用程序、APP等，**N8N爱好者**，[aiautomatehub](https://aiautomatehub.org/zh)。
-- 🌱 目前正在用 **AI** 构建应用。
+- 💻 **全栈开发者**，构建 web 应用程序、APP等，**N8N爱好者**。
+- 🌱 目前正在用 **AI** 构建应用([aiautomatehub](https://aiautomatehub.org/zh))。
 - 🎯 热衷于 **开源**、**自动化** 和 **全栈开发**。
 - 📚 始终保持好奇心，渴望学习新事物。
   
