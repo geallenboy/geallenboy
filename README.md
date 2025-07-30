@@ -43,7 +43,7 @@
 
 - **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
 - **个人网站**：[我的网站](https://gegarron.com)
-- **微信**： [gegarron]
+- **微信**： gegarron
 
 ## 📈 GitHub 活动
 
