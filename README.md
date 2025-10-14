@@ -4,9 +4,9 @@
 
 ## 🚀 关于我
 
-- 💻 **全栈开发者**，构建 web 应用程序、APP等，**N8N爱好者**。
-- 🌱 目前正在用 **AI** 构建应用([aiautomatehub](https://aiautomatehub.org/zh),[ai-saas-template](https://aisaas.ailinksall.com/zh))。
-- 🎯 热衷于 **开源**、**自动化** 和 **全栈开发**。
+- 💻 **全栈开发者**，构建 web2/web3 应用程序。
+- 🌱 目前正在用 **AI** 构建应用。
+- 🎯 热衷于 **开源**、**web3** 和 **全栈开发**。
 - 📚 始终保持好奇心，渴望学习新事物。
   
   
@@ -18,23 +18,6 @@
 - **前端**：Typescript、React、Vue、HTML、CSS、TailwindCSS
 - **后端**：Node.js、Nextjs
 - **数据库**：PostgreSQL
-- **自动化**：N8N
-- **自部署**：coolify/docker
-
-## 📂 精选项目
-
-以下是我一些值得注意的项目：
-
-- **[gegarron](https://github.com/geallenboy/gegarron)**: gegarron
-- **[ai-n8n](https://github.com/geallenboy/ai-n8n)**: ai-n8n
-- **[drawing](https://github.com/geallenboy/drawing)**: drawing
-- **[ai-saas-template](https://github.com/geallenboy/ai-saas-template)**: ai-saas-template
-- **[ai-search](https://github.com/geallenboy/ai-search)**: ai-search
-- **[ai-logo](https://github.com/geallenboy/ai-logo)**: ai-logo
-- **[ai-image](https://github.com/geallenboy/ai-image)**: ai-image
-- **[ai-chat](https://github.com/geallenboy/ai-resume)**: ai-chat
-- **[ai-code](https://github.com/geallenboy/ai-code)**: ai-code
-
 
 
 ## 📫 联系我
@@ -42,7 +25,6 @@
 如果你有任何问题、合作的想法，或者只是想打个招呼，随时与我联系！
 
 - **电子邮件**：[gejialun88@gmail.com](mailto:gejialun88@gmail.com)
-- **个人网站**：[链接](https://gegarron.com)
 - **微信**： gegarron
 
 ## 📈 GitHub 活动
