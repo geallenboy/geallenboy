@@ -14,9 +14,9 @@
 
 以下是我使用的一些技术和工具：
 
-- **编程语言**：JavaScript、Python
-- **前端**：Typescript、React、Vue、HTML、CSS、TailwindCSS
-- **后端**：Node.js、Nextjs
+- **编程语言**：Typescript、Python,Go
+- **前端**：Nextjs、Typescript、React、Vue、HTML、CSS、TailwindCSS
+- **后端**：Node.js、Go
 - **数据库**：PostgreSQL
 
 
